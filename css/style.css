@@ -73,6 +73,7 @@ h1 {
 /* end form styles */
 
 .result {
+  background: ghostwhite;
   border: 5px solid chartreuse;
   font-size: 4.5rem;
   height: 100px;
