@@ -74,8 +74,10 @@ h1 {
 
 .result {
   background: peru;
+  border: 5px solid magenta;
   color: white;
   font-size: 4.5rem;
+  height: 200px;
   margin-top: 3rem;
   text-align: center;
 }
