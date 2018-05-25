@@ -73,6 +73,7 @@ h1 {
 /* end form styles */
 
 .result {
+  background-color: burlywood;
   border: 5px dotted cadetblue;
   font-size: 4.5rem;
   height: 100px;
