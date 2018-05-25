@@ -73,8 +73,13 @@ h1 {
 /* end form styles */
 
 .result {
+  background: peru;
+  border: 5px solid magenta;
+  color: white;
   font-size: 4.5rem;
+  height: 200px;
   margin-top: 3rem;
+  padding: 40px;
   text-align: center;
 }
 
