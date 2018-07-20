@@ -73,7 +73,9 @@ h1 {
 /* end form styles */
 
 .result {
+  border: 5px solid magenta;
   font-size: 4.5rem;
+  height: 90px;
   margin-top: 3rem;
   text-align: center;
 }
