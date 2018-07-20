@@ -73,6 +73,7 @@ h1 {
 /* end form styles */
 
 .result {
+  background-color: yellow;
   border: 5px solid magenta;
   color: mistyrose;
   font-size: 4.5rem;
